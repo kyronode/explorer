@@ -1,8 +1,8 @@
 {
-    "chain_name": "kiichain-testnet",
+    "chain_name": "kiichain",
     "coingecko": "",
-    "api": ["https://lcd.dos.sentry.testnet.v3.kiivalidator.com"],
-    "rpc": ["https://rpc.dos.sentry.testnet.v3.kiivalidator.com"],
+    "api": ["https://kiichain-api.5kage.pro"],
+    "rpc": ["https://kiichain-rpc.5kage.pro"],
     "snapshot_provider": "",
     "sdk_version": "v0.45.10",
     "coin_type": "118",
