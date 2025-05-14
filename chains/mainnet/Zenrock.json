@@ -1,0 +1,22 @@
+{
+    "chain_name": "Zenrock",
+    "api": ["https://zenrock-testnet-api.itrocket.net"],
+    "rpc": ["https://rpc.gardia.zenrocklabs.io"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.12",
+    "coin_type": "118",
+    "min_tx_fee": "3000",
+    "addr_prefix": "zenrock",
+    "logo": "https://pbs.twimg.com/profile_images/1829585852831285259/EAxFe-gB_400x400.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "theme_color": "#411b66",
+    "assets": [
+      {
+        "base": "Rock",
+        "symbol": "Rock",
+        "exponent": "6",
+        "coingecko_id": "zenrock",
+        "logo": "https://pbs.twimg.com/profile_images/1829585852831285259/EAxFe-gB_400x400.png"
+      }
+    ]
+  }

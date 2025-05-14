@@ -1,0 +1,20 @@
+{
+    "chain_name": "Kiichain",
+    "api": ["https://lcd.dos.sentry.testnet.v3.kiivalidator.com"],
+    "rpc": ["https://rpc.uno.sentry.testnet.v3.kiivalidator.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "kiichain",
+    "logo": "https://pbs.twimg.com/profile_images/1800553180083666944/zZe128CW_400x400.jpg", 
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "theme_color": "#d7001f",
+    "assets": [{
+        "base": "Kii",
+        "symbol": "KIICHAIN",
+        "exponent": "6",
+        "coingecko_id": "Kii",
+        "logo": "https://pbs.twimg.com/profile_images/1800553180083666944/zZe128CW_400x400.jpg"
+    }]
+}

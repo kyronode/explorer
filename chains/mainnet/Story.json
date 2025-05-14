@@ -1,0 +1,22 @@
+{
+    "chain_name": "story",
+    "registry_name": "story",
+    "api": [
+        {"provider": "stonegaze", "address": "https://aeneid.storyscan.app"}
+    ],
+    "rpc": [
+        {"provider": "stonegaze", "address": "https://story-aeneid-evm-rpc.stakeme.pro"}
+    ],
+    "sdk_version": "0.50.7",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "story",
+    "logo": "https://avatars.githubusercontent.com/u/113589726?s=200&v=4",
+    "assets": [{
+        "base": "IP",
+        "symbol": "IP",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://avatars.githubusercontent.com/u/113589726?s=200&v=4"
+    }]
+}
