@@ -1,0 +1,20 @@
+{
+    "chain_name": "Pell",
+    "api": ["https://pell-testnet-api.itrocket.net", "https://pell-testnet-api.itrocket.net"],
+    "rpc": ["https://pell-testnet-rpc.itrocket.net", "https://pell-testnet-rpc.itrocket.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "self",
+    "logo": "https://pbs.twimg.com/profile_images/1811609717522989056/_jr_bub2_400x400.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "theme_color": "#6926ff",
+    "assets": [{
+        "base": "uself",
+        "symbol": "SELF",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://pbs.twimg.com/profile_images/1811609717522989056/_jr_bub2_400x400.png"
+    }]
+}

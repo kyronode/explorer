@@ -1,0 +1,25 @@
+{
+    "chain_name": "0g Labs",
+    "api": [
+      {"provider": "itrocket", "address": "https://og-testnet-api.itrocket.net"}
+  ],
+  "rpc": [
+      {"provider": "itrocket", "address": "wss://0g-newton-testnet.drpc.org"}
+  ],
+  "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "0g",
+    "logo": "https://pbs.twimg.com/profile_images/1841632086475866113/n6vPDZqb_400x400.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#ffaeee",
+    "assets": [
+      {
+        "base": "0g",
+        "symbol": "0g",
+        "exponent": "6",
+        "logo": "https://pbs.twimg.com/profile_images/1841632086475866113/n6vPDZqb_400x400.jpg"
+      }
+    ]
+  }

@@ -1,0 +1,20 @@
+{
+    "chain_name": "Lumera",
+    "api": ["https://lumera-testnet-api.polkachu.com/"],
+    "rpc": ["https://rpc-cosmoshub.keplr.app"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "Lumera",
+    "logo": "https://pbs.twimg.com/profile_images/1914464060265127936/z2ONvvpp_400x400.png", 
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "theme_color": "#d7001f",
+    "assets": [{
+        "base": "Lumera",
+        "symbol": "Lumera",
+        "exponent": "6",
+        "coingecko_id": "Lumera",
+        "logo": "https://pbs.twimg.com/profile_images/1914464060265127936/z2ONvvpp_400x400.png"
+    }]
+}
