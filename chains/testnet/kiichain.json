@@ -8,7 +8,7 @@
     "coin_type": "118",
     "min_tx_fee": "1000",
     "addr_prefix": "kii",
-    "logo": "/logos/kiichain.png",
+    "logo": "/logos/kiichain.jpg",
     "assets": [{
         "base": "ukii",
         "symbol": "KII",
