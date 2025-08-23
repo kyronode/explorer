@@ -1,0 +1,19 @@
+{
+    "chain_name": "kiichain-Testnet",
+    "coingecko": "",
+    "api": ["https://kiichain-api.5kage.pro","https://lcd.uno.sentry.testnet.v3.kiivalidator.com"],
+    "rpc": ["https://kiichain-rpc.5kage.pro", "https://rpc.uno.sentry.testnet.v3.kiivalidator.com"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.45.10",
+    "coin_type": "60",
+    "min_tx_fee": "1000",
+    "addr_prefix": "kii",
+    "logo": "/logos/kiichain.jpg",
+    "assets": [{
+        "base": "akii",
+        "symbol": "KII",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/kiichain.png"
+    }]
+}
