@@ -1,5 +1,5 @@
 {
-    "chain_name": "zenrock-mainnet",
+    "chain_name": "zenrock",
     "coingecko": "",
     "api": ["https://zenrock-mainnet-api.itrocket.net"],
     "rpc": ["https://zenrock-mainnet-rpc.itrocket.net"],

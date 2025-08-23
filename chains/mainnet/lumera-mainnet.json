@@ -1,5 +1,5 @@
 {
-    "chain_name": "lumera-mainnet",
+    "chain_name": "lumera",
     "coingecko": "",
     "api": ["https://lumera-api.polkachu.com/"],
     "rpc": ["https://lumera-rpc.polkachu.com"],
