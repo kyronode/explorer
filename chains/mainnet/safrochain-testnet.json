@@ -10,7 +10,7 @@
     "addr_prefix": "addr_safro",
     "logo": "/logos/safrochain.png",
     "assets": [{
-        "base": "usafro",
+        "base": "usaf",
         "symbol": "SAF",
         "exponent": "6",
         "coingecko_id": "",
