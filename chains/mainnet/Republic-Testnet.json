@@ -2,10 +2,10 @@
     "chain_name": "republicai-testnet",
     "coingecko": "",
     "api": [
-        "https://rest.republicai.io","https://api-t.republicai.nodestake.org"
+        "https://api-t.republicai.nodestake.org","https://rest.republicai.io"
     ],
     "rpc": [
-        "https://rpc.republicai.io","https://rpc-t.republicai.nodestake.org"
+        "https://rpc-t.republicai.nodestake.org","https://rpc.republicai.io"
     ],
     "snapshot_provider": "",
     "sdk_version": "",
