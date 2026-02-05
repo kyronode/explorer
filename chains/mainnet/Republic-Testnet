@@ -1,0 +1,25 @@
+{
+    "chain_name": "republicai-testnet",
+    "coingecko": "",
+    "api": [
+        "https://rest.republicai.io"
+    ],
+    "rpc": [
+        "https://rpc.republicai.io"
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "",
+    "coin_type": "60",
+    "min_tx_fee": "0",
+    "addr_prefix": "rai",
+    "logo": "/logos/republicai.png",
+    "assets": [
+        {
+            "base": "arai",
+            "symbol": "RAI",
+            "exponent": "18",
+            "coingecko_id": "",
+            "logo": "/logos/republicai.png"
+        }
+    ]
+}
