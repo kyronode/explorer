@@ -12,7 +12,7 @@
     "coin_type": "60",
     "min_tx_fee": "0",
     "addr_prefix": "rai",
-    "logo": "/logos/republicai.png",
+    "logo": "/logos/republic.png",
     "assets": [
         {
             "base": "arai",
